@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+             <dc:identifier>https://doi.org/10.5281/zenodo.8412997</dc:identifier>
+    <dc:title>Sample tweets from May 2022</dc:title>
+    <dc:creator>CS-Aware-Next</dc:creator>
+    <dc:description>Dataset containing twitter data, namely hashed twitter id, hashed user id, tweet language, user statistics. Published addres is https://zenodo.org/records/8412998</dc:description>
+    <dc:type>Collection</dc:type>
+    <dc:type>Dataset</dc:type>
+    <dc:date>2023-10-06</dc:date>
+    <dc:format>CSV</dc:format>
+    <dc:source>Source of the dataset</dc:source>
+    <dc:language>eng</dc:language>
+</oai_dc:dc>
